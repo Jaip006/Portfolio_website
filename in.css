@@ -157,5 +157,10 @@ footer{
 
     .contact > h3 {
         padding-top: 20px;
-    }   
+    } 
+    @media (max-width: 430px){
+        .first.txt{
+            padding:0;
+        }
+    }
 }
